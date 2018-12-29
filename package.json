@@ -1,0 +1,24 @@
+{
+  "name": "btc-monitor-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldio/btc-monitor-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldio/btc-monitor-service/issues"
+  },
+  "homepage": "https://github.com/goldio/btc-monitor-service#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
