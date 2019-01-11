@@ -231,8 +231,8 @@ function getRawTransactions(txids) {
 		var txs = [];
 		for (var i = 0; i < txids.length; i++) {
 			txs.push({
-				"txid": txid,
-				"hash": txid,
+				"txid": txids[i],
+				"hash": txids[i],
 				"version": 1,
 				"size": 237,
 				"vsize": 210,
